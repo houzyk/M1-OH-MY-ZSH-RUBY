@@ -17,7 +17,7 @@
 
   <img width="762" alt="Screenshot 2021-11-30 at 14 37 46" src="https://user-images.githubusercontent.com/88334281/144035429-65fad40c-59d5-476d-8439-6548cff870eb.png">
 
-### Probable cause of problem
+### Probable cause of the problem
 
   This seemed quite odd at the beginning until I opened the .zshr file in my root. Prior to installing Oh-My-Zsh, I had the two following lines in that file.
 <img width="1136" alt="Screenshot 2021-11-30 at 14 38 04" src="https://user-images.githubusercontent.com/88334281/144035574-1909a021-eafb-4e13-9c20-9837519ad407.png">
