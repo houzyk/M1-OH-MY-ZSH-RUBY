@@ -11,7 +11,7 @@
   <img width="762" alt="Screenshot 2021-11-30 at 14 34 18" src="https://user-images.githubusercontent.com/88334281/144035187-d0e2f91c-82bc-44f2-b0dc-afa148b3dd08.png">
 
 ### Proposed solution
-  To resolve my issue, I uninstall Oh-My-Zsh with `uninstall_oh_my_zsh`. As you see, as soon as it is uninstalled, my Ruby version is set back to that of rbenv and Rails mysteriously appears...
+  To resolve my issue, I uninstalled Oh-My-Zsh with `uninstall_oh_my_zsh`. As you see, as soon as it is uninstalled, my Ruby version is set back to that of rbenv and Rails mysteriously appears...
   
   <img width="762" alt="Screenshot 2021-11-30 at 14 37 01" src="https://user-images.githubusercontent.com/88334281/144035398-315d8630-134b-4499-ac95-ad3695c4de59.png">
 
